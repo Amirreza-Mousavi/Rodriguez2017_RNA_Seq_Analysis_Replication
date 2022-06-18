@@ -4,5 +4,6 @@
 The subset data was a collection of 8 fastq files four of which corresponded to *CEN.PK - St4288* strain which were *optimised for p-coumaric acid production*. (Four samples of replicate #1 were selected.)
 The other four fastq files were from *CEN.PK - St4408* strain which were *not optimised for p-coumaric acid production.* (Four samples of replicate #1 were selected.)
 The scripts ran completely fine, however, the list of differentially expressed genes (DEGs) resulted from my scripts differed to some extents from their results. I assume the differences stem from the fact that I only used a fraction of their sequence data.
-###################################
+============================================
+
 The results of *script.sh* and *Analysis.R* is provided in the Expected_Results folder
