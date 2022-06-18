@@ -1,0 +1,15 @@
+Status	./Aligned_Files/ERR2198545.sam	./Aligned_Files/ERR2198546.sam	./Aligned_Files/ERR2198547.sam	./Aligned_Files/ERR2198548.sam	./Aligned_Files/ERR2198593.sam	./Aligned_Files/ERR2198594.sam	./Aligned_Files/ERR2198595.sam	./Aligned_Files/ERR2198596.sam
+Assigned	5434411	5724029	4881422	4856444	4367018	4596774	3927740	3878761
+Unassigned_Unmapped	944971	988653	872349	858034	1446183	1495124	1326630	1293791
+Unassigned_Read_Type	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	987051	1030290	880588	873471	850730	899365	760602	754008
+Unassigned_Secondary	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	363772	386251	323903	327632	222003	234583	196881	195761
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	191688	200687	171756	171145	158667	165265	142753	140364
